@@ -109,6 +109,19 @@ INSTALLED DevOps Tools
 
 <img width="946" height="585" alt="image" src="https://github.com/user-attachments/assets/fe2a11aa-4ed5-435b-b5b7-e79bf65584dc" />
 
+GIT -HUB
+
+<img width="1602" height="717" alt="image" src="https://github.com/user-attachments/assets/3b140653-babc-4570-acd9-b5ec4a7dbe90" />
+
+VS CODE
+
+<img width="1237" height="691" alt="image" src="https://github.com/user-attachments/assets/14e1ecf0-cf14-44d2-9fff-409d63c6695d" />
+
+AWS CONSOLE
+
+<img width="1897" height="782" alt="image" src="https://github.com/user-attachments/assets/56f24747-5da1-442b-94af-2fed39bbf4fe" />
+
+
 WORKING kubectl
 
 <img width="962" height="917" alt="image" src="https://github.com/user-attachments/assets/e5bcdd7d-fa54-4437-9650-a038e7f70eb3" />
