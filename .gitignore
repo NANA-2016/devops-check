@@ -1,0 +1,19 @@
+# Credentials and secrets
+.env
+.env.*
+.aws/
+.ssh/
+*.pem
+*.key
+credentials
+*secret*
+
+# Terraform state
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfvars
+
+# Local files
+.DS_Store
+*.swp

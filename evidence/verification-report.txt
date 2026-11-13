@@ -1,0 +1,76 @@
+======================================
+ UBUNTU DEVOPS HEALTH CHECK
+======================================
+
+===== 1. CLOUD TOOLS =====
+[32m[PASS][0m aws installed: /usr/local/bin/aws
+aws-cli/2.40.2 Python/3.14.8 Linux/6.6.87.2-microsoft-standard-WSL2 script-exe/x86_64.ubuntu.24
+[32m[PASS][0m az installed: /usr/bin/az
+azure-cli                         2.92.0
+[32m[PASS][0m terraform installed: /usr/bin/terraform
+Terraform v1.17.2
+[32m[PASS][0m ansible installed: /usr/bin/ansible
+ansible [core 2.16.3]
+[32m[PASS][0m ansible-playbook installed: /usr/bin/ansible-playbook
+ansible-playbook [core 2.16.3]
+
+===== 2. CONTAINER TOOLS =====
+[32m[PASS][0m docker installed: /usr/bin/docker
+Docker version 29.9.3, build 5457199
+[32m[PASS][0m kubectl installed: /usr/local/bin/kubectl
+error: unknown flag: --version
+[32m[PASS][0m minikube installed: /usr/local/bin/minikube
+Error: unknown flag: --version
+[32m[PASS][0m Docker daemon accessible
+[32m[PASS][0m Docker Compose installed
+[32m[PASS][0m Docker service running
+
+===== 3. DEVELOPMENT TOOLS =====
+[32m[PASS][0m node installed: /home/faith/.nvm/versions/node/v26.13.1/bin/node
+v26.13.1
+[32m[PASS][0m npm installed: /home/faith/.nvm/versions/node/v26.13.1/bin/npm
+11.20.0
+[32m[PASS][0m jq installed: /usr/bin/jq
+jq-1.7
+[32m[PASS][0m git installed: /usr/bin/git
+git version 2.43.0
+[32m[PASS][0m python3 installed: /usr/bin/python3
+Python 3.12.3
+
+===== 4. KUBERNETES CHECK =====
+[32m[PASS][0m kubectl client working
+[32m[PASS][0m Kubernetes cluster accessible
+[32m[PASS][0m Minikube cluster running
+
+===== 5. LINUX PERMISSIONS =====
+[32m[PASS][0m aws is executable
+[32m[PASS][0m az is executable
+[32m[PASS][0m terraform is executable
+[32m[PASS][0m ansible is executable
+[32m[PASS][0m docker is executable
+[32m[PASS][0m kubectl is executable
+[32m[PASS][0m node is executable
+[32m[PASS][0m jq is executable
+[32m[PASS][0m Home directory permissions OK
+[32m[PASS][0m User belongs to docker group
+[32m[PASS][0m SSH directory permissions secure (700)
+
+===== 6. SYSTEM INFORMATION =====
+Ubuntu:
+"Ubuntu 24.04.5 LTS"
+Kernel:
+6.6.87.2-microsoft-standard-WSL2
+Disk:
+/dev/sdd       1007G  8.6G  948G   1% /
+Memory:
+               total        used        free      shared  buff/cache   available
+Mem:           7.6Gi       1.2Gi       270Mi        13Mi       6.4Gi       6.5Gi
+
+======================================
+ VERIFICATION SUMMARY
+======================================
+[32mPASS: 30[0m
+[31mFAIL: 0[0m
+[33mWARN: 0[0m
+Core command checks completed without failures.
+======================================
