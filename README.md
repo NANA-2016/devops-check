@@ -104,3 +104,14 @@ WSL2 Linux Kernel
 
 Faith
 # devops-check
+
+INSTALLED DevOps Tools 
+
+<img width="946" height="585" alt="image" src="https://github.com/user-attachments/assets/fe2a11aa-4ed5-435b-b5b7-e79bf65584dc" />
+
+WORKING kubectl
+
+<img width="962" height="917" alt="image" src="https://github.com/user-attachments/assets/e5bcdd7d-fa54-4437-9650-a038e7f70eb3" />
+
+
+
