@@ -113,5 +113,14 @@ WORKING kubectl
 
 <img width="962" height="917" alt="image" src="https://github.com/user-attachments/assets/e5bcdd7d-fa54-4437-9650-a038e7f70eb3" />
 
+CHALLENGES MET
+
+Has been abit of a challange connecting to git hub from my terminal. 
+
+Afew  huddles connecting running the terminal and figuring out where to install the different tool. Did it through the 
+
+root teminal which i was not so sure of and it worked 
+
+
 
 
